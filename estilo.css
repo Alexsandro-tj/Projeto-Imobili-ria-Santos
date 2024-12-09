@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    font-family: Tahoma;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+.secao-logo {
+    background-color: #afddfb;
+
+}
+.logo-imobiliaria{
+    width: 150px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: #1d1d1d; 
+    font-size: 18px; 
+    text-decoration: none; 
+    margin: 0 10px; 
+    border-bottom: 2px solid #1d1d1d;
+}
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+
+}
